@@ -53,10 +53,6 @@
 <!-- Custom stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Maurya-03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=4CAF50&text_color=FFFFFF" height="180px"/>
 
-<!-- Language card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maurya-03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="180px"/>
-
-</div>
 
 ---
 
