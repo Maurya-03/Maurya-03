@@ -66,13 +66,14 @@
 
 ---
 
-<div align="center">
-
 ## 🏆 Achievements  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Maurya-03&theme=radical&no-frame=true&no-bg=true&column=6)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Maurya-03&theme=radical&no-frame=true&no-bg=true&column=4)
 
 </div>
+>
 
 ---
 
