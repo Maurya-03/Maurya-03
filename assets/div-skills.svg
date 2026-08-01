@@ -1,0 +1,32 @@
+<svg width="1600" height="140" viewBox="0 0 1600 140" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+    <stop offset="15%" stop-color="#a855f7" stop-opacity="1"/>
+    <stop offset="50%" stop-color="#22d3ee" stop-opacity="1"/>
+    <stop offset="85%" stop-color="#22d3ee" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <style>
+    text { font-family: Consolas, 'Courier New', monospace; }
+    .flow { stroke-dasharray: 6 14; animation: flow 2.4s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -200; } }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:0.5;} 50% {opacity:1;} }
+  </style>
+</defs>
+<rect width="1600" height="140" fill="#050510"/>
+<line x1="40" y1="70.0" x2="1560" y2="70.0" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.55"/>
+<line x1="40" y1="70.0" x2="1560" y2="70.0" stroke="#22d3ee" stroke-width="1.5" class="flow" opacity="0.8" filter="url(#g)"/>
+<g transform="translate(60,36.0)">
+  <rect width="64" height="64" rx="10" fill="none" stroke="#a855f7" stroke-width="1.4" opacity="0.7"/>
+  <text x="32" y="42" text-anchor="middle" font-size="24" font-weight="800" fill="#22d3ee" filter="url(#g)">02</text>
+</g>
+<text x="150" y="64.0" font-size="26" font-weight="700" fill="#f1f5f9" letter-spacing="2" font-family="Segoe UI, Arial, sans-serif">TECH ARSENAL</text>
+<text x="150" y="92.0" font-size="13" fill="#67e8f9" opacity="0.75" letter-spacing="4" font-family="Consolas, monospace">スキルセット</text>
+<circle cx="1530" cy="70.0" r="4" fill="#22d3ee" class="pulse"/>
+<circle cx="1530" cy="70.0" r="9" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5" class="pulse"/>
+</svg>
