@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" style="background:#000000; padding:20px; border-radius:12px;">
 <img src="https://raw.githubusercontent.com/Maurya-03/Maurya-03/main/assets/hero.svg" width="100%" alt="Maurya C R — Developer / Explorer" />
 
 <br/>
