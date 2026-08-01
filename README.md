@@ -37,7 +37,7 @@
 
 <div style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto;">
   <img src="https://raw.githubusercontent.com/Maurya-03/Maurya-03/main/assets/about.svg" width="100%" style="display: block;" alt="identity card" />
-  <img src="https://raw.githubusercontent.com/Maurya-03/Maurya-03/main/assets/Github_profile.png" style="position: absolute; top: 10%; left: 11.3%; width: 8.4%; border-radius: 50%; border: 2px solid #a855f7;" alt="Maurya C R avatar" />
+  
 </div>
 
 </td>
