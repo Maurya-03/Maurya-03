@@ -1,4 +1,5 @@
 <div align="center" style="background:#000000; padding:20px; border-radius:12px;">
+<div align="center">
 <img src="https://raw.githubusercontent.com/Maurya-03/Maurya-03/main/assets/hero.svg" width="100%" alt="Maurya C R — Developer / Explorer" />
 
 <br/>
@@ -43,39 +44,7 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top" width="60%">
 
-### `> WHO_AM_I`
-
-I'm a **Computer Science & Engineering (Cyber Security)** student who builds full‑stack systems that are meant to survive contact with the real world — secure, scalable, and actually shipped, not just prototyped.
-
-I live at the intersection of **Full‑Stack Development**, **AI / Machine Learning**, and **Cybersecurity** — crafting clean interfaces on top of backends that are hardened by default.
-
-```txt
-$ cat mission.log
-> Currently learning     : System Design · Advanced Backend Development
-> Open Source             : Active contributor
-> Philosophy              : Code. Secure. Innovate.
-```
-
-</td>
-<td valign="top" width="40%">
-
-### `> CONTACT.EXE`
-
-|               |                                                     |
-| ------------- | --------------------------------------------------- |
-| 📍 Location   | India, Earth 🌍                                     |
-| 📡 Status     | Always building                                     |
-| 🛰️ Experience | ∞ Learning                                          |
-| 🎯 Mission    | Solve real‑world problems                           |
-| ✉️ Email      | [mauryacr05@gmail.com](mailto:mauryacr05@gmail.com) |
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -168,3 +137,4 @@ Open to collaborations, freelance builds, hackathon teams, and conversations abo
 > _"Code is like humor. When you have to explain it, it's bad."_
 
 <img src="https://raw.githubusercontent.com/Maurya-03/Maurya-03/main/assets/footer.svg" width="100%" alt="footer"/>
+</div>
